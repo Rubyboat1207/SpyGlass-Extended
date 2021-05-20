@@ -1,9 +1,15 @@
-# Fabric Example Mod
+# SpyGlass Extended
+
+#Dependancies
+
+Fabric
+Fabric API
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Just Put in your Mods Folder!
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the Attribution 4.0 International license.
+Do Whatever the heck you want with my mod, as long as its free and publicly avaliable!
